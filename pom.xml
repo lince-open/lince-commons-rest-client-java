@@ -57,7 +57,7 @@
             <groupId>work.lince</groupId>
             <artifactId>lince-commons-authentication</artifactId>
             <scope>provided</scope>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>0.0.1</version>
         </dependency>
 
         <dependency>
