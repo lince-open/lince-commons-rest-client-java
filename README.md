@@ -1,1 +1,1 @@
-# lince-commons-rest-client-java
+# lince-commons-java
